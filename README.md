@@ -21,5 +21,8 @@ Je suis passionnée par la création d'applications web performantes et de quali
 - **Docker**
 - **Github**
 
-## 📫 Contact
-N'hésitez pas à me contacter pour discuter de projets, de collaboration ou de toute autre opportunité !
+## 📫 CV
+[Télécharger le fichier ici](https://github.com/cecilelecerf/cecilelecerf/raw/main/CV - Cécile LECERF.pdf)
+
+## Portfolio
+https://cecile-lecerf.fr
