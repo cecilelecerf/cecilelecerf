@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Salut à tous !
 
-<!--
-**cecilelecerf/cecilelecerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur le profil d'une développeuse passionnée et motivée, actuellement en poste à **Iota - École 42**.
 
-Here are some ideas to get you started:
+## 💻 À propos de moi
+Toujours à la recherche de nouveaux défis et projets passionnants. Si vous êtes à la recherche d'une **alternante en développement** pour votre entreprise, n'hésitez pas à me contacter ! Je suis convaincue de pouvoir vous aider à atteindre vos objectifs de manière efficace.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Mes compétences
+- **JavaScript** et ses frameworks : **React.js**, **Vue.js**, **Node.js**
+- **TypeScript**
+- **Docker**
+- **MySQL**
+- **PHP** et ses frameworks : **CakePHP**, **Symfony**
+
+Je suis passionnée par la création d'applications web performantes et de qualité.
+
+## 🛠️ Outils que j’utilise
+- **Notion**
+- **Figma**
+- **La suite Adobe**
+
+## 📫 Contact
+N'hésitez pas à me contacter pour discuter de projets, de collaboration ou de toute autre opportunité !
