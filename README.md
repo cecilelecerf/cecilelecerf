@@ -10,7 +10,7 @@ Toujours à la recherche de nouveaux défis et projets passionnants. Si vous êt
 - **TypeScript**
 - **Docker**
 - **MySQL**
-- **PHP** et ses frameworks : **CakePHP**, **Symfony**
+- **PHP** et ses frameworks : **Symfony**
 
 Je suis passionnée par la création d'applications web performantes et de qualité.
 
@@ -18,6 +18,8 @@ Je suis passionnée par la création d'applications web performantes et de quali
 - **Notion**
 - **Figma**
 - **La suite Adobe**
+- **Docker**
+- **Github**
 
 ## 📫 Contact
 N'hésitez pas à me contacter pour discuter de projets, de collaboration ou de toute autre opportunité !
