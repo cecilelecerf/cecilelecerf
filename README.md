@@ -6,11 +6,9 @@ Bienvenue sur le profil d'une développeuse passionnée et motivée, actuellemen
 Toujours à la recherche de nouveaux défis et projets passionnants. Si vous êtes à la recherche d'une **alternante en développement** pour votre entreprise, n'hésitez pas à me contacter ! Je suis convaincue de pouvoir vous aider à atteindre vos objectifs de manière efficace.
 
 ## 👨‍💻 Mes compétences
-- **JavaScript** et ses frameworks : **React.js**, **Vue.js**, **Node.js**
-- **TypeScript**
+- **TypeScript** et ses frameworks : **React.js**, **Vue.js**, **Node.js**
 - **Docker**
 - **MySQL**
-- **PHP** et ses frameworks : **Symfony**
 
 Je suis passionnée par la création d'applications web performantes et de qualité.
 
